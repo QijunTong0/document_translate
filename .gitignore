@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*_ja_work/
+*_ja.pdf
+*_ja_src.zip
